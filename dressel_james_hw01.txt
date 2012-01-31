@@ -1,0 +1,8 @@
+James Dressel
+CS 437
+HW 01
+
+Sign up for classes
+faculty obtain class lists
+faculty assign grades
+both view individual course grades and transcript
