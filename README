@@ -1,0 +1,11 @@
+Agile processes use test cases as a specification mechanism. The purpose of this exercise is to help you understand the power of test cases as a specification mechanism.
+
+Consider a simple academic records system that let students sign up for classes, and faculty obtain class lists and assign grades. Faculty and students should be able to view individual course performances as well as overall grades (ie a transcript).
+
+Assignment: Define 10 test cases.
+
+Note that I have deliberately not given you the APIs for any of the possible modules in this system.
+
+Solutions will be discussed/presented in class. Grading criteria: A plausible set of test cases, suitable for class discussion.
+
+For this assignment, you may either work individually or in groups of 2 or 3.
