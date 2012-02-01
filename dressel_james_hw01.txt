@@ -6,3 +6,25 @@ Sign up for classes
 faculty obtain class lists
 faculty assign grades
 both view individual course grades and transcript
+
+
+
+student
+class
+history
+classList
+grade
+
+
+Student student = new Student("James Dressel")
+class.register(student);
+assertTrue(class.Registered(student))
+
+
+ClassList fall = new ClassList();
+Class class = new Class("Physics");
+fall.addToList(class);
+assertTrue(fall.contains(class));
+
+
+clas
